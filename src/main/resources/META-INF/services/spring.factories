@@ -1,2 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.kxindot.goblin.SpringHelper
+com.kxindot.goblin.SpringHelper,\
+com.kxindot.goblin.web.decryption.JasyptConfig,\
+com.kxindot.goblin.web.decryption.ManualDecryptor
